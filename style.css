@@ -1,0 +1,77 @@
+#titular {
+    color: white;
+    text-align: center;
+
+
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+}
+
+#subtitulo{
+    text-align: center;
+    color: white;
+
+}
+
+#tercer{
+    text-align: center;
+    color: white;
+
+}
+
+#abajo{
+    text-align: center;
+    color: white;
+}
+
+
+#bloque{
+
+    margin-left: 350px;
+    }
+    
+    #cuadro{
+
+
+        margin-left: 15px;
+    
+    }
+    
+    #avanzado{
+
+        margin-left: 15px;
+    }
+    
+    
+
+    div p {
+    color: white;
+    text-align: left;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 100px;
+    padding-right: 110px;
+    padding-top: 50px;
+    padding-bottom: 50px;   
+    display: inline-block;
+    
+
+}   
+    div test {
+    color: white;
+    text-align: left;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 100px;
+    padding-right: 110px;
+    padding-top: 50px;
+    padding-bottom: 50px;   
+    display: inline-block;
+    
+
+}   
+
+
